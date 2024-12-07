@@ -3,7 +3,8 @@
 - that's all what i want write!
 
 check this out:  
-fasduygiVRXSADngtdhcwqkbhcdvgasjgvbvybyftdv [^ tips]: it has no meaning
+fasduygiVRXSADngtdhcwqkbhcdvgasjgvbvybyftdv [^tips]  
+[^tips]: it has no meaning
 
 <!---
 darchboardAZ/darchboardAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
