@@ -2,11 +2,8 @@
 - i am not good at introduse myself
 - that's all what i want write!
 
-check this out:
-
-fasduygiVRXSADngtdhcwqkbhcdvgasjgvbvybyftdv
-
-           ↑it has no meaning
+check this out:  
+fasduygiVRXSADngtdhcwqkbhcdvgasjgvbvybyftdv [^ tips]: it has no meaning
 
 <!---
 darchboardAZ/darchboardAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
